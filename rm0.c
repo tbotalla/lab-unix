@@ -12,7 +12,7 @@ int rm0(const char* filename) {
 
 int main(int argc, char *argv[]) {
     if (argc < 2) { 
-        fprintf(stdout, "No se recibio el archivo a eliminar! \n");
+        fprintf(stderr, "No se recibio el archivo a eliminar! \n");
         return -1; 
     }
     return rm0(argv[1]);
