@@ -1,5 +1,6 @@
 # lab-unix
 Lab Unix - 75.08 Sistemas Operativos
+Botalla, Tomás Enrique - 96356
 
 Ejemplo uso: 
 ```
